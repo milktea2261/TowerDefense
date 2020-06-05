@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebde9c93aa20cd48bde84bfc556eac8, type: 3}
+  m_Name: Tower_Bishop
+  m_EditorClassIdentifier: 
+  description: "\u7DE9\u901F\u5468\u906D\u7684\u6575\u4EBA\u3002"
+  cost: 40
+  maxHealth: 20
+  defense: 0
+  moveSpeed: 0
+  attack: 5
+  attackTimeInterval: 1
+  attackRange: 6
+  maxHealthAdder: 10
+  defenseAdder: 0
+  moveSpeedAdder: 0
+  damageAdder: 5
+  attackTimeIntervalAdder: 0
+  attackRangeAdder: 0.5
+  costAdder: 20
+  specialAblity:
+    type: 1
+    duration: 0
+    moveSpeedFlat: -0.5
+    healthFlat: 0
+    defenseFlat: 0
+    attackFlat: 0
+    attackTimeIntervalFlat: 0
+    attackRangeFlat: 0
+    damageDot: 0
+    healDot: 0

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebde9c93aa20cd48bde84bfc556eac8, type: 3}
+  m_Name: Tower_Castle
+  m_EditorClassIdentifier: 
+  description: 
+  cost: 0
+  maxHealth: 10
+  defense: 0
+  moveSpeed: 0
+  attack: 0
+  attackTimeInterval: 0
+  attackRange: 0
+  maxHealthAdder: 0
+  defenseAdder: 0
+  moveSpeedAdder: 0
+  damageAdder: 5
+  attackTimeIntervalAdder: 0
+  attackRangeAdder: 0
+  costAdder: 0
+  specialAblity:
+    type: 1
+    duration: 0
+    moveSpeedFlat: 0
+    healthFlat: 0
+    defenseFlat: 0
+    attackFlat: 0
+    attackTimeIntervalFlat: 0
+    attackRangeFlat: 0
+    damageDot: 0
+    healDot: 0

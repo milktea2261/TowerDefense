@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebde9c93aa20cd48bde84bfc556eac8, type: 3}
+  m_Name: Soldier_Knight
+  m_EditorClassIdentifier: 
+  description: "\u88AB\u653B\u64CA\u6642\uFF0C\u6703\u52A0\u901F\u9003\u812B\u3002"
+  cost: 20
+  maxHealth: 20
+  defense: 0
+  moveSpeed: 1.3
+  attack: 10
+  attackTimeInterval: 1
+  attackRange: 1
+  maxHealthAdder: 20
+  defenseAdder: 0
+  moveSpeedAdder: 0
+  damageAdder: 5
+  attackTimeIntervalAdder: 0
+  attackRangeAdder: 0
+  costAdder: 10
+  specialAblity:
+    type: 0
+    duration: 10
+    moveSpeedFlat: 2
+    healthFlat: 0
+    defenseFlat: 0
+    attackFlat: 0
+    attackTimeIntervalFlat: 0
+    attackRangeFlat: 0
+    damageDot: 0
+    healDot: 0
